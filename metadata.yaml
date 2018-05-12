@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25997'
     url: http://www.gutenberg.org/2009/agents/25997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26198#South-Africa-and-the-Transvaal-War-Vol.-2--of-6---13-From-the-Commencement-of-the-War-to-the-_
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2008-08-06'
 gutenberg_type: Text
